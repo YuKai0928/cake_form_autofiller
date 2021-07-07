@@ -3,4 +3,13 @@ This tool helps you filling out the surveycake forms automatically, and refresh 
 Required gadgets : Webdriver, Selenium.
 
 ### installation of gadgets
-#### Selenium:
+#### selenium
+```
+pip install selenium
+```
+#### webdirver
+```
+brew install --cask chromedriver
+```
+
+I put the example form in the code. You can check out the url.
